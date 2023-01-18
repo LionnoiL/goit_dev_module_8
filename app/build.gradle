@@ -26,7 +26,8 @@ dependencies {
     implementation 'com.google.guava:guava:31.1-jre'
 
     // https://mvnrepository.com/artifact/jakarta.servlet/jakarta.servlet-api
-    compileOnly 'jakarta.servlet:jakarta.servlet-api:5.0.0'
+    compileOnly 'jakarta.servlet:jakarta.servlet-api:6.0.0'
+
 
 
 }
