@@ -25,8 +25,9 @@ dependencies {
     // This dependency is used by the application.
     implementation 'com.google.guava:guava:31.1-jre'
 
-    // https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api
-    compileOnly 'javax.servlet:javax.servlet-api:4.0.1'
+    // https://mvnrepository.com/artifact/jakarta.servlet/jakarta.servlet-api
+    compileOnly 'jakarta.servlet:jakarta.servlet-api:5.0.0'
+
 
 }
 
